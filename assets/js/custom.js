@@ -3,7 +3,7 @@ $(document).ready(function() {
   	$('#menu-mobile').hide();
   });
 
-  $(document).on('click', '#icon-open-menu', function() {
+  $("#icon-open-menu").on('click', function(e) {
   	$('#menu-mobile').show();
-  });
+  })
 });
