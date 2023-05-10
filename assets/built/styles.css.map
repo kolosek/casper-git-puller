@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,UACC,aACD,CAEA,0BACC,aACD,CAEA,aACC,wBACD,CAEA,mBACC,wBACD","file":"styles.css","sourcesContent":[".btn-text {\n\tcolor: #658AFC;\n}\n\n.btn-main:hover .btn-text {\n\tcolor: #2C5EFB;\n}\n\n.btn-started {\n\tbackground-color: #658AFC;\n}\n\n.btn-started:hover {\n\tbackground-color: #2C5EFB;\n}\n"]}

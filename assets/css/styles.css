@@ -1,0 +1,15 @@
+.btn-text {
+	color: #658AFC;
+}
+
+.btn-main:hover .btn-text {
+	color: #2C5EFB;
+}
+
+.btn-started {
+	background-color: #658AFC;
+}
+
+.btn-started:hover {
+	background-color: #2C5EFB;
+}
